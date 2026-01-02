@@ -9,10 +9,10 @@
 ## 🧑‍💻 About Me
 
 I am a Software Engineering student with a strong interest in building **modern full-stack web applications**.  
-I enjoy working on both **UI/UX design** and **backend logic**, focusing on clean code and scalable systems.
+I enjoy working on **UI/UX design**, **authentication systems**, and **scalable backend logic**.
 
 - 🌱 Working mainly with **React, Node.js, and MySQL**
-- ⚡ Interested in **real-time applications & system design**
+- 🔐 Interested in **security, Firebase authentication, and databases**
 - 🛠️ Love building practical academic & personal projects
 
 ---
@@ -30,6 +30,7 @@ I enjoy working on both **UI/UX design** and **backend logic**, focusing on clea
 
 ### 🗄️ Database
 - 🐬 MySQL
+- 🔥 Firebase (Auth & Database)
 
 ### ⚙️ Tools
 - Git & GitHub
@@ -58,11 +59,6 @@ A clean and responsive **Apple website UI clone**, focused on modern layout, ani
 ### 🌐 Live Demo
 🔗 https://willowy-maamoul-a57ce3.netlify.app/
 
-### 📸 Preview
-<p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="500"/>
-</p>
-
 </details>
 
 ---
@@ -71,26 +67,20 @@ A clean and responsive **Apple website UI clone**, focused on modern layout, ani
 <summary><strong>💬 Real-Time Chat Application</strong></summary>
 
 ### 📝 Description
-A **real-time chat application** with instant messaging, smooth UI, and modern web app behavior.
+A **real-time chat application** built with React and Firebase, featuring secure authentication and instant messaging.
 
 ### 🔧 Tech Used
 - React
-- Node.js
-- Real-time communication
-- Vercel deployment
+- Firebase Authentication
+- Firebase Database
+- Real-time updates
 
 ### 🌐 Live Demo
 🔗 https://pulse-chat-app-rho.vercel.app/
 
-### 📸 Preview
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
-</p>
-
 </details>
 
 ---
-
 
 ## 🤝 Connect With Me
 
