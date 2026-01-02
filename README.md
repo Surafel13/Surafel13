@@ -1,9 +1,102 @@
-# 👋 Hi, I’m Surafel Tesfaye
+# 👋 Hi, I'm Surafel Tesfaye
 
-I am Software Engineering student passionate about building clean, modern web apps.  
-I work mainly with **React**, **Node.js**, and **MySQL** to create full-stack projects.
+🎓 **Software Engineering Student**  
+💻 **Full-Stack Web Developer**  
+🚀 Passionate about building clean, modern, and user-focused web applications
 
-🔧 Focus: Web development | Backend systems  
-👨‍💻 My Portfolio : https://surafel-tesfaye.netlify.app/
+---
 
-📬 Email: tesfayesurafel18@gmail.com
+## 🧑‍💻 About Me
+
+I am a Software Engineering student with a strong interest in building **modern full-stack web applications**.  
+I enjoy working on both **UI/UX design** and **backend logic**, focusing on clean code and scalable systems.
+
+- 🌱 Working mainly with **React, Node.js, and MySQL**
+- ⚡ Interested in **real-time applications & system design**
+- 🛠️ Love building practical academic & personal projects
+
+---
+
+## 🛠️ Tech Stack
+
+### 🌐 Frontend
+- ⚛️ React
+- 🧩 JavaScript (ES6+)
+- 🎨 HTML5, CSS3
+
+### 🔧 Backend
+- 🟢 Node.js
+- 🚂 Express.js
+
+### 🗄️ Database
+- 🐬 MySQL
+
+### ⚙️ Tools
+- Git & GitHub
+- Firebase
+- Postman
+- VS Code
+- Vercel & Netlify
+
+---
+
+## 🚀 Featured Projects (Live View)
+
+> Click on a project to preview 👇
+
+<details>
+<summary><strong>🍎 Apple UI Clone</strong></summary>
+
+### 📝 Description
+A clean and responsive **Apple website UI clone**, focused on modern layout, animations, and pixel-perfect design.
+
+### 🔧 Tech Used
+- React
+- CSS
+- Modern UI techniques
+
+### 🌐 Live Demo
+🔗 https://willowy-maamoul-a57ce3.netlify.app/
+
+### 📸 Preview
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="500"/>
+</p>
+
+</details>
+
+---
+
+<details>
+<summary><strong>💬 Real-Time Chat Application</strong></summary>
+
+### 📝 Description
+A **real-time chat application** with instant messaging, smooth UI, and modern web app behavior.
+
+### 🔧 Tech Used
+- React
+- Node.js
+- Real-time communication
+- Vercel deployment
+
+### 🌐 Live Demo
+🔗 https://pulse-chat-app-rho.vercel.app/
+
+### 📸 Preview
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
+</p>
+
+</details>
+
+---
+
+
+## 🤝 Connect With Me
+
+- 💼 GitHub: https://github.com/Surafel13  
+- 📧 Email: **tesfayesurafel18@gmail.com**
+
+---
+
+⭐ *Thanks for visiting my profile! Feel free to explore my repositories and collaborate.*
