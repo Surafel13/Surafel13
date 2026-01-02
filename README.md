@@ -57,7 +57,12 @@ A clean and responsive **Apple website UI clone**, focused on modern layout, ani
 - Modern UI techniques
 
 ### 🌐 Live Demo
-🔗 https://willowy-maamoul-a57ce3.netlify.app/
+🔗 [Apple UI Clone](https://willowy-maamoul-a57ce3.netlify.app/)
+
+### 🎬 Preview
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="500"/>
+</p>
 
 </details>
 
@@ -76,7 +81,12 @@ A **real-time chat application** built with React and Firebase, featuring secure
 - Real-time updates
 
 ### 🌐 Live Demo
-🔗 https://pulse-chat-app-rho.vercel.app/
+🔗 [Real-Time Chat App](https://pulse-chat-app-rho.vercel.app/)
+
+### 🎬 Preview
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
+</p>
 
 </details>
 
@@ -84,7 +94,7 @@ A **real-time chat application** built with React and Firebase, featuring secure
 
 ## 🤝 Connect With Me
 
-- 💼 GitHub: https://github.com/Surafel13  
+- 💼 GitHub: [Surafel13](https://github.com/Surafel13)  
 - 📧 Email: **tesfayesurafel18@gmail.com**
 
 ---
