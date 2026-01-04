@@ -23,6 +23,7 @@ I enjoy working on **UI/UX design**, **authentication systems**, and **scalable 
 - ⚛️ React
 - 🧩 JavaScript (ES6+)
 - 🎨 HTML5, CSS3
+- 🅱️ Bootstrap
 
 ### 🔧 Backend
 - 🟢 Node.js
@@ -46,22 +47,23 @@ I enjoy working on **UI/UX design**, **authentication systems**, and **scalable 
 > Click on a project to preview 👇
 
 <details>
-<summary><strong>🍎 Apple UI Clone</strong></summary>
+<summary><strong>🛒 Amazon UI Clone</strong></summary>
 
 ### 📝 Description
-A clean and responsive **Apple website UI clone**, focused on modern layout, animations, and pixel-perfect design.
+A responsive **Amazon website UI clone**, built with React and Bootstrap, focusing on clean design, layout, and interactive elements.
 
 ### 🔧 Tech Used
 - React
+- Bootstrap
 - CSS
-- Modern UI techniques
+- Modern UI design
 
 ### 🌐 Live Demo
-🔗 [Apple UI Clone](https://willowy-maamoul-a57ce3.netlify.app/)
+🔗 [Amazon UI Clone](https://amazone-ui-clone-v29y.vercel.app/)
 
 ### 🎬 Preview
 <p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="500"/>
+  <img src="https://media.giphy.com/media/3o7TKrXmyd5pTjJb6A/giphy.gif" width="500"/>
 </p>
 
 </details>
@@ -86,6 +88,29 @@ A **real-time chat application** built with React and Firebase, featuring secure
 ### 🎬 Preview
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
+</p>
+
+</details>
+
+---
+
+<details>
+<summary><strong>🍎 Apple UI Clone</strong></summary>
+
+### 📝 Description
+A clean and responsive **Apple website UI clone**, focused on modern layout, animations, and pixel-perfect design.
+
+### 🔧 Tech Used
+- React
+- CSS
+- Modern UI techniques
+
+### 🌐 Live Demo
+🔗 [Apple UI Clone](https://willowy-maamoul-a57ce3.netlify.app/)
+
+### 🎬 Preview
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="500"/>
 </p>
 
 </details>
