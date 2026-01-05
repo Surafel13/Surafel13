@@ -106,7 +106,7 @@ A clean and responsive **Apple website UI clone**, focused on modern layout, ani
 - Modern UI techniques
 
 ### 🌐 Live Demo
-🔗 [Apple UI Clone](https://willowy-maamoul-a57ce3.netlify.app/)
+🔗 [Apple UI Clone](https://apple-frontend-clone-mu.vercel.app/)
 
 ### 🎬 Preview
 <p align="center">
