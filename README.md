@@ -20,31 +20,59 @@ I enjoy working on **UI/UX design**, **authentication systems**, and **scalable 
 ## 🛠️ Tech Stack
 
 ### 🌐 Frontend
-- ⚛️ React
-- 🧩 JavaScript (ES6+)
-- 🎨 HTML5, CSS3
-- 🅱️ Bootstrap
+- ⚛️ React  
+- 🧩 JavaScript (ES6+)  
+- 🎨 HTML5, CSS3  
+- 🅱️ Bootstrap  
 
 ### 🔧 Backend
-- 🟢 Node.js
-- 🚂 Express.js
+- 🟢 Node.js  
+- 🚂 Express.js  
 
 ### 🗄️ Database
-- 🐬 MySQL
-- 🔥 Firebase (Auth & Database)
+- 🐬 MySQL  
+- 🔥 Firebase (Auth & Database)  
 
 ### ⚙️ Tools
-- Git & GitHub
-- Firebase
-- Postman
-- VS Code
-- Vercel & Netlify
+- Git & GitHub  
+- Firebase  
+- Postman  
+- VS Code  
+- Vercel & Netlify  
 
 ---
 
 ## 🚀 Featured Projects (Live View)
 
 > Click on a project to preview 👇
+
+---
+
+<details open>
+<summary><strong>🌐 Personal Portfolio Website</strong></summary>
+
+### 📝 Description
+My **personal portfolio website** showcasing my skills, tech stack, and featured projects.  
+Designed with a clean, modern UI to represent my journey as a **Software Engineering student & Full-Stack Web Developer**.
+
+### 🔧 Tech Used
+- HTML
+- Modern CSS
+- Java Script
+- Responsive Design
+- UI/UX-focused layout
+
+### 🌐 Live Demo
+🔗 https://my-portfolio-beta-ruddy-17.vercel.app/
+
+### 🎬 Preview
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
+</p>
+
+</details>
+
+---
 
 <details>
 <summary><strong>🛒 Amazon UI Clone</strong></summary>
@@ -59,7 +87,7 @@ A responsive **Amazon website UI clone**, built with React and Bootstrap, focusi
 - Modern UI design
 
 ### 🌐 Live Demo
-🔗 [Amazon UI Clone](https://amazone-ui-clone-v29y.vercel.app/)
+🔗 https://amazone-ui-clone-v29y.vercel.app/
 
 ### 🎬 Preview
 <p align="center">
@@ -83,11 +111,11 @@ A **real-time chat application** built with React and Firebase, featuring secure
 - Real-time updates
 
 ### 🌐 Live Demo
-🔗 [Real-Time Chat App](https://pulse-chat-app-rho.vercel.app/)
+🔗 https://pulse-chat-app-rho.vercel.app/
 
 ### 🎬 Preview
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="500"/>
 </p>
 
 </details>
@@ -106,11 +134,11 @@ A clean and responsive **Apple website UI clone**, focused on modern layout, ani
 - Modern UI techniques
 
 ### 🌐 Live Demo
-🔗 [Apple UI Clone](https://apple-frontend-clone-mu.vercel.app/)
+🔗 https://apple-frontend-clone-mu.vercel.app/
 
 ### 🎬 Preview
 <p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="500"/>
+  <img src="https://media.giphy.com/media/l0MYEqEzwMWFCg8rm/giphy.gif" width="500"/>
 </p>
 
 </details>
@@ -119,9 +147,10 @@ A clean and responsive **Apple website UI clone**, focused on modern layout, ani
 
 ## 🤝 Connect With Me
 
-- 💼 GitHub: [Surafel13](https://github.com/Surafel13)  
-- 📧 Email: **tesfayesurafel18@gmail.com**
+- 💼 GitHub: https://github.com/Surafel13  
+- 📧 Email: tesfayesurafel18@gmail.com  
 
 ---
 
-⭐ *Thanks for visiting my profile! Feel free to explore my repositories and collaborate.*
+⭐ **Thanks for visiting my profile!**  
+Feel free to explore my repositories, give a star ⭐, or collaborate with me.
