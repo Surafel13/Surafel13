@@ -31,7 +31,9 @@ I enjoy working on **UI/UX design**, **authentication systems**, and **scalable 
 
 ### 🗄️ Database
 - 🐬 MySQL  
-- 🔥 Firebase (Auth & Database)  
+- 🔥 Firebase (Auth & Database)
+- Mongo DB
+
 
 ### ⚙️ Tools
 - Git & GitHub  
