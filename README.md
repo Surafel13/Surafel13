@@ -32,8 +32,7 @@ I enjoy working on **UI/UX design**, **authentication systems**, and **scalable 
 ### 🗄️ Database
 - 🐬 MySQL  
 - 🔥 Firebase (Auth & Database)
-- Mongo DB
-
+- 🟢 MongoDB
 
 ### ⚙️ Tools
 - Git & GitHub  
@@ -60,7 +59,7 @@ Designed with a clean, modern UI to represent my journey as a **Software Enginee
 ### 🔧 Tech Used
 - HTML
 - Modern CSS
-- Java Script
+- JavaScript
 - Responsive Design
 - UI/UX-focused layout
 
@@ -101,23 +100,24 @@ A responsive **Amazon website UI clone**, built with React and Bootstrap, focusi
 ---
 
 <details>
-<summary><strong>💬 Real-Time Chat Application</strong></summary>
+<summary><strong>🏥 Clinic Appointment App (Full-Stack)</strong></summary>
 
 ### 📝 Description
-A **real-time chat application** built with React and Firebase, featuring secure authentication and instant messaging.
+A **full-stack clinic appointment management system** where patients can book appointments, doctors can view schedules, and admins can manage users. Built to handle **secure authentication, appointment booking, and backend logic**.  
 
 ### 🔧 Tech Used
-- React
-- Firebase Authentication
-- Firebase Database
-- Real-time updates
+- React (Frontend)  
+- Node.js & Express.js (Backend)  
+- MongoDB (Database)  
+- JWT Authentication  
+- REST API Integration  
 
 ### 🌐 Live Demo
-🔗 https://pulse-chat-app-rho.vercel.app/
+🔗 [Clinic Appointment App](https://clinic-appointment-web-app.vercel.app/)
 
 ### 🎬 Preview
 <p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="500"/>
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="500"/>
 </p>
 
 </details>
