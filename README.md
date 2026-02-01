@@ -117,7 +117,7 @@ A **full-stack clinic appointment management system** where patients can book ap
 
 ### 🎬 Preview
 <p align="center">
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="500"/>
+  <img src="https://media.giphy.com/media/l0MYEqEzwMWFCg8rm/giphy.gif" width="500"/>
 </p>
 
 </details>
