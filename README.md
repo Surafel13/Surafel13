@@ -1,158 +1,59 @@
-# 👋 Hi, I'm Surafel Tesfaye
+# Surafel Tesfaye
+**Software Engineering Student | Full-Stack Web Developer**
 
-🎓 **Software Engineering Student**  
-💻 **Full-Stack Web Developer**  
-🚀 Passionate about building clean, modern, and user-focused web applications
-
----
-
-## 🧑‍💻 About Me
-
-I am a Software Engineering student with a strong interest in building **modern full-stack web applications**.  
-I enjoy working on **UI/UX design**, **authentication systems**, and **scalable backend logic**.
-
-- 🌱 Working mainly with **React, Node.js, and MySQL**
-- 🔐 Interested in **security, Firebase authentication, and databases**
-- 🛠️ Love building practical academic & personal projects
-
----
-
-## 🛠️ Tech Stack
-
-### 🌐 Frontend
-- ⚛️ React  
-- 🧩 JavaScript (ES6+)  
-- 🎨 HTML5, CSS3  
-- 🅱️ Bootstrap  
-
-### 🔧 Backend
-- 🟢 Node.js  
-- 🚂 Express.js  
-
-### 🗄️ Database
-- 🐬 MySQL  
-- 🔥 Firebase (Auth & Database)
-- 🟢 MongoDB
-
-### ⚙️ Tools
-- Git & GitHub  
-- Firebase  
-- Postman  
-- VS Code  
-- Vercel & Netlify  
-
----
-
-## 🚀 Featured Projects (Live View)
-
-> Click on a project to preview 👇
-
----
-
-<details open>
-<summary><strong>🌐 Personal Portfolio Website</strong></summary>
-
-### 📝 Description
-My **personal portfolio website** showcasing my skills, tech stack, and featured projects.  
-Designed with a clean, modern UI to represent my journey as a **Software Engineering student & Full-Stack Web Developer**.
-
-### 🔧 Tech Used
-- HTML
-- Modern CSS
-- JavaScript
-- Responsive Design
-- UI/UX-focused layout
-
-### 🌐 Live Demo
-🔗 https://my-portfolio-beta-ruddy-17.vercel.app/
-
-### 🎬 Preview
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1500&color=2563EB&width=435&lines=Building+clean%2C+modern+web+apps;Focused+on+UI%2FUX+and+scalable+backends;React+%E2%80%A2+Node.js+%E2%80%A2+MySQL" alt="Typing SVG" />
 </p>
 
-</details>
+---
+
+## 🛠️ Technical Expertise
+
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### Backend & Databases
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ---
 
-<details>
-<summary><strong>🛒 Amazon UI Clone</strong></summary>
+## 🚀 Featured Projects
 
-### 📝 Description
-A responsive **Amazon website UI clone**, built with React and Bootstrap, focusing on clean design, layout, and interactive elements.
+### 💻 Personal Portfolio Website
+A modern, responsive portfolio platform engineered to showcase technical projects and skills, designed with fluid UI/UX layouts.
+* **Core Stack:** JavaScript • HTML5 • Modern CSS
+* **Deployment:** [**View Live Site ↗**](https://my-portfolio-beta-ruddy-17.vercel.app/)
 
-### 🔧 Tech Used
-- React
-- Bootstrap
-- CSS
-- Modern UI design
+### 🏥 Full-Stack Clinic Appointment Application
+A complete management system enabling secure patient bookings, doctor scheduling, and administrative oversight. 
+* **Core Stack:** React • Node.js • Express.js • MongoDB • JWT
+* **Deployment:** [**View Live Site ↗**](https://clinic-appointment-web-app.vercel.app/)
 
-### 🌐 Live Demo
-🔗 https://amazone-ui-clone-v29y.vercel.app/
+### 📦 Amazon UI Architecture Clone
+A highly accurate interface clone of the Amazon storefront, focusing on component modularity and responsive layout behaviors.
+* **Core Stack:** React • Bootstrap • CSS3
+* **Deployment:** [**View Live Site ↗**](https://amazone-ui-clone-v29y.vercel.app/)
 
-### 🎬 Preview
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7TKrXmyd5pTjJb6A/giphy.gif" width="500"/>
-</p>
-
-</details>
-
----
-
-<details>
-<summary><strong>🏥 Clinic Appointment App (Full-Stack)</strong></summary>
-
-### 📝 Description
-A **full-stack clinic appointment management system** where patients can book appointments, doctors can view schedules, and admins can manage users. Built to handle **secure authentication, appointment booking, and backend logic**.  
-
-### 🔧 Tech Used
-- React (Frontend)  
-- Node.js & Express.js (Backend)  
-- MongoDB (Database)  
-- JWT Authentication  
-- REST API Integration  
-
-### 🌐 Live Demo
-🔗 [Clinic Appointment App](https://clinic-appointment-web-app.vercel.app/)
-
-### 🎬 Preview
-<p align="center">
-  <img src="https://media.giphy.com/media/l0MYEqEzwMWFCg8rm/giphy.gif" width="500"/>
-</p>
-
-</details>
+### 🍏 Apple UI Layout Clone
+A pixel-perfect UI/UX reconstruction of the Apple homepage, emphasizing minimal design principles and clean typography.
+* **Core Stack:** React • Modern CSS
+* **Deployment:** [**View Live Site ↗**](https://apple-frontend-clone-mu.vercel.app/)
 
 ---
 
-<details>
-<summary><strong>🍎 Apple UI Clone</strong></summary>
+## 🤝 Connect & Collaborate
 
-### 📝 Description
-A clean and responsive **Apple website UI clone**, focused on modern layout, animations, and pixel-perfect design.
+I am always open to open-source collaborations, full-stack opportunities, and technical discussions.
 
-### 🔧 Tech Used
-- React
-- CSS
-- Modern UI techniques
-
-### 🌐 Live Demo
-🔗 https://apple-frontend-clone-mu.vercel.app/
-
-### 🎬 Preview
-<p align="center">
-  <img src="https://media.giphy.com/media/l0MYEqEzwMWFCg8rm/giphy.gif" width="500"/>
-</p>
-
-</details>
+📥 **Email:** [tesfayesurafel18@gmail.com](mailto:tesfayesurafel18@gmail.com)  
+🐙 **GitHub:** [github.com/Surafel13](https://github.com/Surafel13)
 
 ---
-
-## 🤝 Connect With Me
-
-- 💼 GitHub: https://github.com/Surafel13  
-- 📧 Email: tesfayesurafel18@gmail.com  
-
----
-
-⭐ **Thanks for visiting my profile!**  
-Feel free to explore my repositories, give a star ⭐, or collaborate with me.
+<p align="center">Driven by continuous learning and clean code.</p>
