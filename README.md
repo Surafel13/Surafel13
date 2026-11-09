@@ -93,17 +93,6 @@ A personal finance management mobile application for tracking income, expenses, 
 
 ---
 
-## GitHub Activity
-
-<div align="center">
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Surafel13/Surafel13/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
-</p>
-
-</div>
-
----
 
 ## Connect & Collaborate
 
