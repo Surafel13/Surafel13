@@ -128,5 +128,8 @@ I am open to meaningful collaborations, software development opportunities, and 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:2563EB&height=100&section=footer" width="100%" />
 
 **Driven by curiosity. Focused on building. Committed to improving.**
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Surafel13/Surafel13/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+</p>
 
 </div>
