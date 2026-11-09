@@ -97,9 +97,9 @@ A personal finance management mobile application for tracking income, expenses, 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Surafel13&show_icons=true&theme=transparent&hide_border=true&title_color=2563EB&icon_color=06B6D4&text_color=808080" height="165" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Surafel13&layout=compact&theme=transparent&hide_border=true&title_color=2563EB&text_color=808080" height="165" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Surafel13/Surafel13/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+</p>
 
 </div>
 
@@ -128,8 +128,5 @@ I am open to meaningful collaborations, software development opportunities, and 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:2563EB&height=100&section=footer" width="100%" />
 
 **Driven by curiosity. Focused on building. Committed to improving.**
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Surafel13/Surafel13/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
-</p>
 
 </div>
